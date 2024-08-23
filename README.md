@@ -1,4 +1,4 @@
-# Animal Classification Project
+# Four Animal Classification Project
 
 ## Overview
 
